@@ -1,0 +1,16 @@
+body {
+	font-family: "Poppins";
+	min-height: 100vh;
+}
+
+.hero {
+	background-image: url(./airplane.webp);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	min-height: 100%;
+}
+
+.hero .text {
+	background-color: red;
+}

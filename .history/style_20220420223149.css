@@ -1,0 +1,7 @@
+body {
+	font-family: "Poppins";
+}
+
+.hero {
+	background-image: url(./airplane.webp);
+}
